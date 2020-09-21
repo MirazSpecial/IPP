@@ -1,0 +1,13 @@
+/**
+@mainpage Gamma project documentation
+
+### Implementation info
+
+Implementation of gamma game engine,
+with use of find-and-union and dfs algorithms.
+Implementation of two game modes: batch and interactive
+
+### Documentation
+
+
+*/
